@@ -12,7 +12,7 @@ A decentralized identity verification and authentication system built using:
 1. Clone the repository
 
 ```bash
-git clone [repository-url]
+git clone https://github.com/sanxalp/blockchain-based-auth.git
 cd blockchainauthentication
 ```
 
@@ -26,9 +26,7 @@ npm install
 
 3. Start local blockchain
 
-```bash
-truffle develop
-```
+use Ganache and quickstart then go to contracts and add your truffle-config.js there
 
 4. Deploy contracts
 
